@@ -1,0 +1,2 @@
+sudo apt-get install python3-pandas
+https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
